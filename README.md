@@ -1,4 +1,4 @@
-# hsm
+# HSM
 
 [Documentation HSM](https://github.com/zupri/hsm/wiki)
 
